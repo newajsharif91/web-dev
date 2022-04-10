@@ -1,0 +1,9 @@
+p{
+    color: rgb(218, 245, 176);
+    background-color: rgb(38, 36, 39);
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse ;
+    padding: 15px;
+} 
